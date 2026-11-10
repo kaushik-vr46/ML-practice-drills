@@ -1,6 +1,6 @@
 # ML Practice: Tier 1 (scikit-learn and LightGBM)
 
-Seven small machine learning exercises, each built around an everyday problem, to practise the main classical algorithms with Python libraries.
+Seven small machine learning exercises, each built around an everyday problem, to practise the main classical algorithms with Python libraries alongside when I was learning the core Machine learning algorithms and it's theory behind it's working from the infamous Machine Learning Specialization by Andrew NG
 
 ## How this was made
 

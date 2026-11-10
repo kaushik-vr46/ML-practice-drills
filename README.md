@@ -4,7 +4,7 @@ Seven small machine learning exercises, each built around an everyday problem, t
 
 ## How this was made
 
-I asked Claude to write a problem statement and a dataset for each algorithm. I typed out the solutions myself, and used Claude to understand the concepts and clear up my doubts along the way.
+I asked Claude to write a problem statement and a dataset for each algorithm. Later, I typed out the solutions, and used Claude to understand the concepts and clear up my doubts along the way.
 
 ## Exercises
 
